@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1468346615 source:c:\erikprogram\rts_chess\rts_chess - new\game.cpp
+	"game.h"
+
+1467744967 c:\erikprogram\rts_chess\rts_chess - new\game.h
+	<iostream>
+	<fstream>
+	<SOIL/SOIL.h>
+	<gl/gl.h>
+	<string>
+	<vector>
+	<math.h>
+	<ctime>
+	"sound.h"
+	"gamepad.h"
+	"key_reroute.h"
+	"unit.h"
+	"networkCom.h"
+
+1460208459 c:\erikprogram\rts_chess\rts_chess - new\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1440223682 c:\erikprogram\rts_chess\rts_chess - new\sound_list.h
+
+1402764144 c:\erikprogram\rts_chess\rts_chess - new\gamepad.h
+	<windows.h>
+	<D3D/XInput.h>
+
+1440095565 c:\erikprogram\rts_chess\rts_chess - new\key_reroute.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<stdlib.h>
+
+1388793472 source:c:\erikprogram\rts_chess\rts_chess - new\gamepad.cpp
+	"gamepad.h"
+
+1440010848 source:c:\erikprogram\rts_chess\rts_chess - new\key_reroute.cpp
+	"key_reroute.h"
+
+1460663129 source:c:\erikprogram\rts_chess\rts_chess - new\main.cpp
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<fcntl.h>
+	<stdio.h>
+	<cstdio>
+	<ctime>
+	<winsock2.h>
+	"definitions.h"
+	"game.h"
+	"networkCom.h"
+
+1468346316 c:\erikprogram\rts_chess\rts_chess - new\definitions.h
+
+1460208459 source:c:\erikprogram\rts_chess\rts_chess - new\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1460312564 c:\erikprogram\rts_chess\rts_chess - new\unit.h
+	<gl/gl.h>
+	"definitions.h"
+
+1460569577 source:c:\erikprogram\rts_chess\rts_chess - new\unit.cpp
+	"unit.h"
+
+1460662957 source:c:\erikprogram\rts_chess\rts_chess - new\clientcom.cpp
+	"clientCom.h"
+
+1460561198 c:\erikprogram\rts_chess\rts_chess - new\clientcom.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<string>
+	<vector>
+	<winsock2.h>
+
+1460561198 source:c:\erikprogram\rts_chess\rts_chess - new\networkcom.cpp
+	"networkCom.h"
+
+1460561198 c:\erikprogram\rts_chess\rts_chess - new\networkcom.h
+	<winsock2.h>
+	<iostream>
+	<string>
+	<vector>
+	<winsock2.h>
+	"serverCom.h"
+	"clientCom.h"
+
+1460561198 c:\erikprogram\rts_chess\rts_chess - new\servercom.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<winsock2.h>
+	<string>
+	<vector>
+
+1460561198 source:c:\erikprogram\rts_chess\rts_chess - new\servercom.cpp
+	"serverCom.h"
+
